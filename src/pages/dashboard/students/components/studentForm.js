@@ -86,7 +86,7 @@ const StudentForm = ({ student, isEdit }) => {
             </Stack>
           </Grid>
         </Grid>
-      </MainCard>{' '}
+      </MainCard>
       <Stack>
         <Grid container spacing={2} direction="row-reverse">
           <Grid item>
